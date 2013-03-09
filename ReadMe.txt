@@ -1,0 +1,1 @@
+Just some fooling around with LINQ and OData in C# and, kinda sorta, javascript.
